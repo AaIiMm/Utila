@@ -7,4 +7,4 @@
 from utila import MinToMax
 from utila import MaxToMin
 
-__version__ = "0.0.4"
+__version__ = "0.0.5"
