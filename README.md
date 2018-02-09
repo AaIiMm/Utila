@@ -8,8 +8,9 @@ pip install Utila
 
 Exemple d'usage :
 =================
->>> from Utila import MinToMax
->>> MinToMax(a,b) two times the same list
+from Utila import MinToMax
+MinToMax(a,b) two times the same list
+
 
 License:
 ========
@@ -17,5 +18,5 @@ WTFPL
 
 Doc:
 ====
-Soon
+https://github.com/AaIiMm/Utila/wiki/Functions
 
