@@ -13,7 +13,7 @@ Exemple d'usage :
 
 License:
 ========
-Open Source
+WTFPL
 
 Doc:
 ====

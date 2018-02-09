@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: Utila
-Version: 0.0.2
+Version: 0.0.4
 Summary: You need this
 Home-page: https://github.com/AaIiMm/Utila
 Author: Aime Risson
@@ -21,7 +21,7 @@ Description: UTILA Library:
         
         License:
         ========
-        Open Source
+        WTFPL
         
         Doc:
         ====

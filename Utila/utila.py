@@ -11,6 +11,7 @@
 
 """
 def MinToMax(a, res):
+    #test
     #Algorithme pour calculer le plus petit chifre 
     for j in range(0,len(a)):
         mini = a[0]
